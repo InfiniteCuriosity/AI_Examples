@@ -58,12 +58,14 @@ The volume of reviews typically spikes during new product launches (September/Oc
 <img width="500" height="300" alt="Review Volume Trend by Month" src="https://github.com/user-attachments/assets/eede8eeb-5308-4885-bdbf-e046c8a60c4b" />
 <br><br>
 
-**Recommended Decisions to Increase Ratings**
+**Recommended Decisions to Increase Google Ratings for the Apple Store in the Woodfield Mall**
 
 Based on frequent complaints regarding wait times and staff interactions at Apple Woodfield, the following actions are recommended:
 
-**Implement a Transparent Digital Queue**: Many 1-star reviews stem from "wait time lies" where customers are told 5 minutes but wait 45. A real-time digital dashboard or SMS update system that provides accurate, live wait-list positions would manage expectations more effectively.
+**Implement a Transparent Digital Queue**: Google Gemini Pro recommended a very tech-heavy solution with digital dashboards or SMS updates. This is both expensive, and can have problems. It is much less expensive and more effective to train store staff to understand the body langugage and facial expressions of customers who have been waiting a long time. Train staff to scan the store themselves (no AI needed) and look for customers who seem to be waiting a long time.
 
-**Enhance Walk-in Support Staffing**: Reviewers frequently note that while many employees are present, few are available to assist walk-ins. Dedicated "Express Greeters" who can handle quick tasks (like simple pick-ups or accessory questions) without entering the main Genius Bar queue would reduce congestion.
+**Enhance Walk-in Support Staffing**: Google Gemini Pro recommendd dedicating staff who are "Express Greeters" for quick tasks (pick-ups, etc.) because customers report in their reviews they see many staff, but very few are present. In my experience adding "Express Greeters" has limited results that are not great. For example, my local post office, has such as service. Some USPS staff are dedicated to quick actions and have a special location up front ("Are you only here to pick up a package?"). But there is always a line of people who still need more from the post office than the quick action option.
 
-**Customer Service Soft-Skills Training**: A notable segment of negative reviews cites "rude" or "dismissive" behavior from staff when the store is busy. Implementing stress-management and empathy training for floor staff during peak hours could prevent "worst experience" reviews even when wait times are long.
+I would recommend the Apple store testing out hiring a few more staff, so customers do not experience delays. That way there are enough staff to take care of customers complete orders.
+
+**Customer Service Soft-Skills Training**: I found this to be Google Gemini Pro's best recommendation. The Google reviews reported issues such as staff who were descirbed as "Rude", "Dismissive", and similar words. While these are not in all the reviews, they are in enough reviews that it's a patten the customers experience. Training staff to be empathic, supportive, and (quite frankly) less rude, would be a huge step in the right direction to getting higher reviews.

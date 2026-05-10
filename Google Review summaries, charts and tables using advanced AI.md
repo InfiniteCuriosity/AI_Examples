@@ -31,22 +31,26 @@ This chart illustrates the breakdown of star ratings. While many customers appre
 
 Sentiment is divided into thematic categories. "Product Satisfaction" remains high, while "Service Efficiency" is the primary driver of negative sentiment.
 
-Sentiment Category	Positive	Neutral	Negative
-Product Quality	90%	7%	3%
-Staff Knowledge	65%	15%	20%
-Wait Times/Queue	15%	10%	75%
-Store Atmosphere	70%	20%	10%
+| Sentiment | Category | Positive | Neutral | Negative |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|Product |Quality | 90% | 7% |3% |
+|Staff Knowledge | 65% | 15% | 20%|
+|Wait Times/Queue | 15% | 10% | 75% |
+|Store Atmosphere | 70% | 20% | 10% |
+
 3. Reviews by Month (Seasonal Volume)
 
 The volume of reviews typically spikes during new product launches (September/October) and the holiday shopping season (November/December).
 
-Month	Review Volume Trend
-Jan - Mar	Moderate
-Apr - Jun	Low
-Jul - Aug	Moderate (Back to school)
-Sep - Oct	High (iPhone Launch)
-Nov - Dec	Peak (Holidays)
-Recommended Decisions to Increase Ratings
+| Month |	Review |
+|:---:|:---:|
+| Jan - Mar |	Moderate|
+|Apr - Jun | Low |
+| Jul - Aug | Moderate (Back to school) |
+| Sep - Oct | High (iPhone Launch) |
+| Nov - Dec |Peak (Holidays)|
+
+**Recommended Decisions to Increase Ratings**
 
 Based on frequent complaints regarding wait times and staff interactions at Apple Woodfield, the following actions are recommended:
 

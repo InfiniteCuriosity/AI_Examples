@@ -1,6 +1,6 @@
 Using Google Gemini to create a summary report about a retail store.
 
-The prompt to Google Gemini:
+The prompt to Google Gemini Pro:
 
 You are a data scientist. I need to provide a report to management about how to increase revenue at the Apple Store in the Woodfield Mall in Schaumburg, Illinois.
 What are the specific 'friction points' in the Woodfield Mall customer journey that lead to revenue leakage?

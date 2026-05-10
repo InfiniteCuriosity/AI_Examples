@@ -12,11 +12,9 @@ Based on the reviews, recommend three decisions the store can do to increase the
 **Summary report:**
 
 To analyze the reviews for Apple Woodfield, data was synthesized from current ratings and common customer feedback trends. As of May 2026, the store maintains a 3.7-star rating based on over 1,500 reviews.
-
-Review Summary Charts
-
+<br>
 1. Number of Stars (Rating Distribution)
-
+<br>
 This chart illustrates the breakdown of star ratings. While many customers appreciate the product quality, there is a significant volume of 1-star reviews primarily focused on service wait times.
 
 | Rating| Approximate Percentage |

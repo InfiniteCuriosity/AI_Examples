@@ -13,7 +13,7 @@ The reviews data is:
 https://www.google.com/maps/place/Apple+Woodfield/@42.045949,-88.0401213,16z/data=!3m1!5s0x880faf9741d6140f:0x663c92cce41e8886!4m8!3m7!1s0x880faf96c7f69451:0xa81c0f988d4f6cde!8m2!3d42.045949!4d-88.037541!9m1!1b1!16s%2Fg%2F1tczfhd7?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D
 Based on the reviews, recommend three decisions the store can do to increase their ratings on Google Reviews.
 
-**Summary report:**
+**Summary report: (from Google Gemini Pro)**
 
 To analyze the reviews for Apple Woodfield, data was synthesized from current ratings and common customer feedback trends. As of May 2026, the store maintains a 3.7-star rating based on over 1,500 reviews.
 <br>

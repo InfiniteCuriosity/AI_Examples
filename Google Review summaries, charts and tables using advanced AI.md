@@ -2,7 +2,7 @@ On May 10, 2026, I used Google Gemini Pro to do an analysis of Google Reviews of
 
 The full report is here: https://gemini.google.com/share/edc2b3e18881
 
-The promptI gave Google Gemini Pro:
+The prompt I gave Google Gemini Pro:
 
 Create three summary charts of the Google reviews for the Apple Store at the Woodfield Mall in Schaumburg, Illinois. One chart is the number of stars. The second chart is customer sentiment. The third chart is the month of the review. Make each of these a separate chart.
 The reviews data is:

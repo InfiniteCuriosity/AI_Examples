@@ -10,6 +10,8 @@ Create a table that summarizes the reviews.
 
 The response:
 
+https://gemini.google.com/share/f6d3989f1d7e
+
 To provide a data-driven strategy for the Apple Store at Woodfield Mall, we must look at the intersection of high foot traffic and service-level bottlenecks. As one of the busiest retail locations in Illinois, the "revenue leakage" is rarely due to a lack of interest, but rather a failure in throughput and conversion efficiency during peak mall hours.
 
 **Executive Summary:**<br>

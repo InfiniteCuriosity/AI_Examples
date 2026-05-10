@@ -27,7 +27,7 @@ This chart illustrates the breakdown of star ratings. While many customers appre
 | 2 Stars | 5% |
 | 1 Star |20% |
 <img width="500" height="300" alt="Google Reviews Rating Distribution-2" src="https://github.com/user-attachments/assets/624d1ff4-bd1d-4229-ba77-c6796b2f1297" />
-
+<br><br>
 
 
 2. Customer Sentiment
@@ -40,6 +40,8 @@ Sentiment is divided into thematic categories. "Product Satisfaction" remains hi
 |Staff Knowledge | 65% | 15% | 20%|
 |Wait Times/Queue | 15% | 10% | 75% |
 |Store Atmosphere | 70% | 20% | 10% |
+<img width="500" height="300" alt="Sentiment Distribution by Category" src="https://github.com/user-attachments/assets/d63a0ebd-fdec-4b56-9c29-9ca1ff9a5e0a" />
+<br><br>
 
 3. Reviews by Month (Seasonal Volume)
 

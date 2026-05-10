@@ -27,6 +27,8 @@ This chart illustrates the breakdown of star ratings. While many customers appre
 | 2 Stars | 5% |
 | 1 Star |20% |
 
+
+
 2. Customer Sentiment
 
 Sentiment is divided into thematic categories. "Product Satisfaction" remains high, while "Service Efficiency" is the primary driver of negative sentiment.

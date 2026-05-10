@@ -61,8 +61,8 @@ The volume of reviews typically spikes during new product launches (September/Oc
 
 Based on frequent complaints regarding wait times and staff interactions at Apple Woodfield, the following actions are recommended:
 
-Implement a Transparent Digital Queue: Many 1-star reviews stem from "wait time lies" where customers are told 5 minutes but wait 45. A real-time digital dashboard or SMS update system that provides accurate, live wait-list positions would manage expectations more effectively.
+**Implement a Transparent Digital Queue**: Many 1-star reviews stem from "wait time lies" where customers are told 5 minutes but wait 45. A real-time digital dashboard or SMS update system that provides accurate, live wait-list positions would manage expectations more effectively.
 
-Enhance Walk-in Support Staffing: Reviewers frequently note that while many employees are present, few are available to assist walk-ins. Dedicated "Express Greeters" who can handle quick tasks (like simple pick-ups or accessory questions) without entering the main Genius Bar queue would reduce congestion.
+**Enhance Walk-in Support Staffing**: Reviewers frequently note that while many employees are present, few are available to assist walk-ins. Dedicated "Express Greeters" who can handle quick tasks (like simple pick-ups or accessory questions) without entering the main Genius Bar queue would reduce congestion.
 
-Customer Service Soft-Skills Training: A notable segment of negative reviews cites "rude" or "dismissive" behavior from staff when the store is busy. Implementing stress-management and empathy training for floor staff during peak hours could prevent "worst experience" reviews even when wait times are long.
+**Customer Service Soft-Skills Training**: A notable segment of negative reviews cites "rude" or "dismissive" behavior from staff when the store is busy. Implementing stress-management and empathy training for floor staff during peak hours could prevent "worst experience" reviews even when wait times are long.

@@ -20,6 +20,7 @@ Review Summary Charts
 This chart illustrates the breakdown of star ratings. While many customers appreciate the product quality, there is a significant volume of 1-star reviews primarily focused on service wait times.
 
 | Rating| Approximate Percentage |
+|:-----:|:-----:|
 |5 Stars | 55% |
 |4 Stars |12% |
 | 3 Stars | 8% |

@@ -31,9 +31,9 @@ This chart illustrates the breakdown of star ratings. While many customers appre
 
 Sentiment is divided into thematic categories. "Product Satisfaction" remains high, while "Service Efficiency" is the primary driver of negative sentiment.
 
-| Sentiment | Category | Positive | Neutral | Negative |
-|:-----:|:-----:|:-----:|:-----:|:-----:|
-|Product |Quality | 90% | 7% |3% |
+| Sentiment Category | Positive | Neutral | Negative |
+|:-----:|:-----:|:-----:|:-----:|
+|Product Quality | 90% | 7% |3% |
 |Staff Knowledge | 65% | 15% | 20%|
 |Wait Times/Queue | 15% | 10% | 75% |
 |Store Atmosphere | 70% | 20% | 10% |

@@ -27,6 +27,7 @@ This chart illustrates the breakdown of star ratings. While many customers appre
 | 2 Stars | 5% |
 | 1 Star |20% |
 
+<img width="500" height="300" alt="Google Reviews Rating Distribution" src="https://github.com/user-attachments/assets/ead06be3-5d86-40de-baea-70c00eeddfc8" />
 
 
 2. Customer Sentiment

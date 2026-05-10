@@ -54,6 +54,8 @@ The volume of reviews typically spikes during new product launches (September/Oc
 | Jul - Aug | Moderate (Back to school) |
 | Sep - Oct | High (iPhone Launch) |
 | Nov - Dec |Peak (Holidays)|
+<img width="500" height="300" alt="Review Volume Trend by Month" src="https://github.com/user-attachments/assets/eede8eeb-5308-4885-bdbf-e046c8a60c4b" />
+<br><br>
 
 **Recommended Decisions to Increase Ratings**
 

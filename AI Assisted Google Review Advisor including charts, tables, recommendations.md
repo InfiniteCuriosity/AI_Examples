@@ -1,3 +1,7 @@
+Russ Conte
+May 10, 2026
+Forest Park, Illinois
+
 On May 10, 2026, I used Google Gemini Pro to do an analysis of Google Reviews of the Apple store in the Woodfield Mall. I do not have any connection to the Apple store in the Woodfield Mall, other than being a customer.
 
 The full report is here: https://gemini.google.com/share/edc2b3e18881
